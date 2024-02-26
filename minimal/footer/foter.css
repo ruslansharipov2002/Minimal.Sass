@@ -1,0 +1,70 @@
+.footer {
+  background-color: #000;
+  padding: 70px 0;
+}
+
+.form {
+  width: 564px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  padding: 18px 30px;
+  color: #fff;
+  border: none;
+  outline: none;
+}
+
+.primary {
+  background-color: #2E2E2E;
+}
+
+.secondary {
+  background-color: #333333;
+}
+
+.text_field {
+  border: none;
+  outline: none;
+  padding: 18px 30px;
+  resize: none;
+  height: 127px;
+  color: #fff;
+  margin-bottom: 21px;
+}
+
+.form_btn {
+  border: 2px solid #7EC4BD;
+  padding: 15px 60px;
+  color: #7EC4BD;
+  background-color: transparent;
+  width: 210px;
+  white-space: nowrap;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 37px;
+}
+
+.imgesh_logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 43px;
+  height: 46px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imgesh_logo {
+  margin-bottom: 14px;
+}
+
+.paragraff {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+}/*# sourceMappingURL=foter.css.map */
