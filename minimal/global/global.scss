@@ -13,10 +13,16 @@
 body {
     width: 100%;
     font-family: sans-serif;
+    @media screen {
+        (min-width: 480px;)
+      }
 }
 
 a {
     text-decoration: none;
+    @media screen {
+        (min-width: 480px;)
+      }
 }
 
 ul, ol {

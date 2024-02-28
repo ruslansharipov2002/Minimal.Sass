@@ -4,6 +4,9 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  @media screen {
+    (min-width: 420px;)
+  }
 }
 
 .hero_title {
@@ -14,6 +17,9 @@
   text-transform: uppercase;
   color: #fff;
   margin-bottom: 28px;
+  @media screen {
+    (min-width: 420px;)
+  }
 }
 .hero_line {
   width: 80px;
@@ -23,6 +29,9 @@
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 25px;
+  @media screen {
+    (min-width: 420px;)
+  }
 }
 .hero_text {
   font-weight: 400;
@@ -30,6 +39,9 @@
   line-height: 133%;
   text-align: center;
   color: rgba(255, 255, 255, 0.81);
+  @media screen {
+    (min-width: 420px;)
+  }
 }
 .hero_2 {
   height: 279px;
@@ -42,6 +54,9 @@
   .btn_get {
     padding: 13px 34px 20px 34px;
     margin-top: 40px;
+    @media screen {
+      (min-width: 420px;)
+    }
   }
 }
 .h2_brands {
@@ -49,6 +64,9 @@
   align-items: center;
   justify-content: center;
   margin-top: 79px;
+  @media screen {
+    (min-width: 480px;)
+  }
 }
 .hero_line_2 {
   width: 80px;
@@ -59,6 +77,9 @@
   margin-right: auto;
   margin-top: 28px;
   margin-bottom: 43px;
+  @media screen {
+    (min-width: 420px;)
+  }
 }
 .content {
   width: 100%;
@@ -67,11 +88,17 @@
   justify-content: center;
   gap: 10px;
   margin-bottom: 70px;
+  @media screen {
+    (min-width: 420px max-width: 658px;)
 }
-
+  
+}
 .target {
   width: 320px;
   text-align: center;
+  @media screen {
+    (min-width: 420px max-width: 658px;)
+}
 }
 
 .target_img {
@@ -82,14 +109,23 @@
   justify-content: center;
   background-color: #f5f5f5;
   margin-bottom: 38px;
+  @media screen {
+    (min-width: 480px;)
+  }
 }
 .h3_title {
   margin-bottom: 20px;
+  @media screen {
+    (min-width: 480px;)
+  }
 }
 .text_recent {
   display: flex;
   align-items: center;
   justify-content: center;
+  @media screen {
+    (min-width: 480px;)
+  }
 }
 .hero_line2 {
   width: 80px;
@@ -100,6 +136,9 @@
   margin-right: auto;
   margin-top: 28px;
   margin-bottom: 43px;
+  @media screen {
+    (min-width: 480px;)
+  }
 }
 
 
@@ -110,6 +149,9 @@
     flex-wrap: wrap;
     gap: 20px;
     margin-bottom: 70px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .card{
     text-align: center;
@@ -132,21 +174,36 @@
     margin-right: auto;
     margin-top: 28px;
     margin-bottom: 43px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .content_ron{
     display: flex;
     gap: 10px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .content_ron{
     margin-bottom: 70px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .h3_woods{
     margin-bottom: 5px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .card_2{
     width: 220px;
     height: 220px;
     text-align: center;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .h3_title_item{
     margin-bottom: 6px;
@@ -161,18 +218,30 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .section_title2{
     padding: 70px 0px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .comma{
     margin-bottom: 40px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .ilove{
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 50px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .Elexis{
     width: 446px;
@@ -188,6 +257,9 @@
 .h2_item_title{
     text-align: center;
     padding-bottom: 20px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .hero_line_item{
     width: 80px;
@@ -195,6 +267,9 @@
     margin-left: auto;
     margin-right: auto;
     color: #E8E8E8;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .section_item{
     padding:70px 0 ;
@@ -203,23 +278,41 @@
     background-position: center;
     background-size: cover;
     background-image: url(../../images/IMAGE\ \(24\).png);
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .div_item_none{
     display: flex;
 }
 .sms_svg{
     margin-bottom: 34px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .like_svg{
     margin-bottom: 28px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .location_svg{
     margin-bottom: 26px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .text_person{
     margin-bottom: 20px;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
 .card_100{
     padding: 70px;
     text-align: center;
+    @media screen {
+      (min-width: 480px;)
+    }
 }
